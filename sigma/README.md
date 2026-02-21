@@ -29,7 +29,7 @@ create a brach for experimenting on it by "git branch -M main" if needed
    3.git remote -v //to verify
    4.git branch //checking 
    5.git branch -M main //changing name to main
-   6.git push origin main //pushing into github
+   6.git push origin main //pushing into github if we use git push -u origin main then for next updating just git pull
    now every thing is ready
 
 use git commit -am "and and commit at together "
