@@ -19,6 +19,20 @@ create a brach for experimenting on it by "git branch -M main" if needed
   3.then use "git branch" for checking  we can see "main"
   then git push -u origin main //-u for upstreaming next time only git push 
   4. use git commit -m "new message" 
+  now we need to connect to our github for that :git push -u origin main
+  then every thing will be aadded to our new git repo
+   now origin targets the repo and main creates the branch
+   5.for creating new repo we use:git inti 
+   order of flow :
+   1.git init
+   2.git remote add orgin "link"
+   3.git remote -v //to verify
+   4.git branch //checking 
+   5.git branch -M main //changing name to main
+   6.git push origin main //pushing into github
+   now every thing is ready
+
+
 
 
 
