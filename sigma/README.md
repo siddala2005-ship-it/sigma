@@ -33,6 +33,8 @@ create a brach for experimenting on it by "git branch -M main" if needed
    now every thing is ready
 
 use git commit -am "and and commit at together "
+now see of using -u in this
+
 
 
 
