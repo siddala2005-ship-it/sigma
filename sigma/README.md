@@ -1,0 +1,1 @@
+we have to run" git inti" for creating git repository
