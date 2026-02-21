@@ -32,7 +32,7 @@ create a brach for experimenting on it by "git branch -M main" if needed
    6.git push origin main //pushing into github
    now every thing is ready
 
-
+use git commit -am "and and commit at together "
 
 
 
