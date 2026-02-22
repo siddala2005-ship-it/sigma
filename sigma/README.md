@@ -50,4 +50,15 @@ merging code:
  request sent
  MERGE CONFLITS:
 
+ fixing mistakes:
+  csae1:staged changes
+  git reset filename
+  case2:commited changes for one commit
+    git reset HEAD~1:WILL POINT LAT COMIT
+    
+  case 3:
+   commited changes for many
+   ggit reset commit hash
+   git reset --hard commit hash
+
 
