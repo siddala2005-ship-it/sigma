@@ -44,7 +44,10 @@ git branch -d branchname :delete branch
 
 merging code:
  git diff branch name:to compare branches filtes and more 
+ press "q" to exit
  git merge branchname :to merge 2 branches
  git merge also creates a pr(pull request)
  request sent
+ MERGE CONFLITS:
+
 
