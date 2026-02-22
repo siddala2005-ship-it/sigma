@@ -35,6 +35,16 @@ create a brach for experimenting on it by "git branch -M main" if needed
 use git commit -am "and and commit at together "
 now see of using -u in this
 
+BRANCH COMMANDS
+1.GIT BRANCH :TO CHECK BRANCH
+GIT BRANCH -M main :rename
+git checkout branchname: to direct
+git checkout -b newbranchname //to create new branch
+git branch -d branchname :delete branch
 
-
+merging code:
+ git diff branch name:to compare branches filtes and more 
+ git merge branchname :to merge 2 branches
+ git merge also creates a pr(pull request)
+ request sent
 
